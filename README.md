@@ -1,2 +1,2 @@
 # oneplus-clone
-DevOps Project: Host a Webserver and created oneplus-clone Website on EC2
+DevOps Project: Hosted a Webserver and created oneplus-clone Website on EC2
