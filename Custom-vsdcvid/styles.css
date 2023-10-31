@@ -1,0 +1,150 @@
+body {
+    background:gray;
+    color:wh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background:black;
+    padding: 20px;
+    height: 120px;
+    text-align: center;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 40px;
+    
+}
+
+header .logo a{
+    background-image: url("vsdc.png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 88px;
+    width: 100px;
+    top: -40px;
+    position: relative;
+    text-indent: -99999px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    display: inline;
+    margin-right: 20px;   
+}
+
+.bgimg {
+    margin: 40px 0px 40px 0px ;
+    font-size: 20px;
+    background-image: url("banner_1.jpg");
+    background-size: 100% 100%;
+    width: 100;
+    height: 400px;
+
+}
+
+.text {
+    background-color:khaki;
+    margin: 40px;
+    
+}
+
+.cards {
+    margin: 40px;
+    padding: 30px;
+    background: burlywood;
+}
+
+.heardset p {
+    color:white;
+    position: absolute;
+    right: 20%;
+    margin-right: 20%;
+}
+
+.heardset h3{
+    color: white;
+    font-size: 50px;
+}
+   
+
+   
+    
+
+.bg-primary {
+ background-color: black!important;
+}
+
+.bg-circle
+{
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  padding: 14px 4px;
+  color: #ececec;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.bg-circle-outline
+{
+
+  width: 50px;
+  height: 50px;
+  color:smoke;
+  padding: 8px 2px;
+  border: 2px solid;
+  border-color: smoke;
+  border-radius: 50%;
+}
+
+
+.bg-circle a, a:hover, .media a:focus
+{
+  text-decoration: none !important;
+  outline: none;
+  color: #ececec;
+}
+.bg-circle-outline a, a:hover, .media a:focus
+{
+  text-decoration: none !important;
+  outline: none;
+  color: #ececec;
+}
+
+.down {
+    padding: 20px;
+   
+}
+
+.three {
+    background-color:khaki;
+    margin: 40px;
+    
+    
+}
+
+.mb-4 {
+    margin: 40px 100px 40px 100px;
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+    color:white;
+}
+
+.feedback {
+    margin: 0px 0px 0px 300px;
+}
+
+
+
+

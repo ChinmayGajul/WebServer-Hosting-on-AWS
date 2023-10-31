@@ -1,0 +1,71 @@
+/**
+ * @package   Modulus Template - RocketTheme
+ * @version   1.6.6 April 23, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+
+/* Background */
+#rt-body-bg {background: #d2d2d2;border-bottom: 1px solid #c0c0c0;}
+
+/* Text Colors */
+body, #rt-body-surround .readon span, #rt-body-surround .readon .button, #rt-popup .readon, #rt-popuplogin .readon {color: #666;}
+a:hover {color: #333;}
+.module-title .title {color: #555;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.module-title .title span {color: #111;}
+#rt-body-surround .title4 .title, #rt-body-surround .title4 .title span {color: #fff;text-shadow: 1px 1px 0 rgba(0,0,0,0.9);}
+#rt-body-surround .module-content ul.menu li > a:hover, #rt-body-surround .module-content ul.menu li .separator:hover, #rt-body-surround .module-content ul.menu li > .item:hover, #rt-body-surround .module-content ul.menu li.active > a, #rt-body-surround .module-content ul.menu li.active > .separator, #rt-body-surround .module-content ul.menu li.active > .item {color: #555;}
+
+/* Top Menu */
+.menutop li.root:hover > .item span, .menutop li.root.f-mainparent-itemfocus .item span, .rt-splitmenu .menutop li:hover .item span {background: #eaeaea;box-shadow: 0 0 3px rgba(0,0,0,0.2);}
+.menutop .fusion-submenu-wrapper {background: #eaeaea;}
+.menutop ul li {border-top: 1px solid #c0c0c0;}
+.menutop ul li > .item:hover, .menutop li.f-menuparent-itemfocus > .item {background: #d0d0d0;}
+
+/* Module Standard */
+#rt-body-surround .rt-block, #rt-body-surround .contentbox1 {background: #eaeaea;border: 1px solid #c0c0c0;box-shadow: 0 0 5px rgba(51,51,51,0.1);}
+.module-title {background: #e0e0e0;border-bottom: 1px solid #c0c0c0;}
+.module-title2 {background: url(../images/bodystyle/med/title-overlay-top.png) 50% 0 repeat-x;}
+.module-title3 {background: url(../images/bodystyle/med/title-overlay-bottom.png) 50% 100% repeat-x;}
+
+/* Module Variations */
+.title3 .module-title {background: #ccc;border-bottom: none;}
+.title3 .module-title3 {background: none;}
+.title4 .module-title {background: #333;}
+.title4 .module-title2, .title4 .module-title3 {background: none;}
+#rt-body-surround .box1 .rt-block, #rt-body-surround .contentbox2 {background: #d2d2d2;}
+#rt-body-surround .box2 .rt-block, #rt-body-surround .contentbox3 {background: #eaeaea;}
+#rt-body-surround .box3 .rt-block, #rt-body-surround .contentbox4 {background: #ddd;border: 1px solid #bbb;}
+#rt-body-surround .box4 .rt-block {background: #d0d0d0;border: 1px solid #b0b0b0;}
+#rt-body-surround .box5 .rt-block {background: #f0f0f0 url(../images/bodystyle/med/module-overlay.png) 50% 0 repeat-x;}
+#rt-body-surround .box6 .rt-block, #rt-body-surround .contentbox5 {background: #e0e0e0 url(../images/bodystyle/med/module-overlay.png) 50% 0 repeat-x;}
+#rt-body-surround .box7 .rt-block, #rt-body-surround .contentbox6 {background: #d0d0d0 url(../images/bodystyle/med/module-overlay.png) 50% 0 repeat-x;border: 1px solid #bbb;}
+#rt-body-surround .box8 .rt-block {background: #ccc url(../images/bodystyle/med/module-overlay.png) 50% 0 repeat-x;border: 1px solid #b5b5b5;}
+
+/* Side Menu */
+.module-content ul.menu li {border-top: 1px solid #ccc;}
+.module-content ul.menu li:hover > a, .module-content ul.menu li:hover > .separator, .module-content ul.menu li:hover > .item, .module-content ul.menu li.active > a, .module-content ul.menu li.active > .separator, .module-content ul.menu li.active > .item {background: #fff;}
+
+/* Buttons and Inputs */
+#rt-body-surround .readon, #rt-popup .readon, #rt-popuplogin .readon {background: #e9e9e9;border: 1px solid #c0c0c0;}
+#rt-body-surround .readon:hover, #rt-popup .readon:hover, #rt-popuplogin .readon:hover {background: #ccc;border: 1px solid #bbb;}
+#rt-body-surround .readon:active, #rt-popup .readon:active, #rt-popuplogin .readon:active {background: #eaeaea;}
+#rt-body-surround .readon span, #rt-body-surround .readon .button, #rt-popup .readon .button, #rt-popuplogin .readon .button {background: url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);border-top: 1px solid #fff;}
+.rokradios, .rokchecks, .rokradios-active, .rokchecks-active {background-image: url(../images/bodystyle/med/body-inputs.png);}
+
+/* Typography */
+.rt-articleinfo {border-bottom: 1px solid #c0c0c0;}
+.component-content .rt-article-icons .icon, .component-content .rt-article-icons ul li a, #rt-accessibility .button {background-image: url(../images/bodystyle/med/article-icons.png);}
+.rt-article-icons a:hover .print, .rt-article-icons a:hover .email, .rt-article-icons a:hover .pdf, .rt-article-icons .edit:hover, .rt-article-icons ul li a:hover, #rt-accessibility .button:hover {background-color: #555;}
+span.breadcrumbs a, span.no-link, .pathway {border-right: 1px solid #c0c0c0;}
+#rt-body-surround .inputbox {border: 1px solid #c0c0c0;}
+#form-login ul li a, .component-content .login ul li a, ul.rt-more-articles li a, .rt-section-list ul li a, ul.mostread li a, ul.latestnews li a, .weblinks ul li a, #rt-popup ul li a, #rt-popuplogin ul li a {background-image: url(../images/bodystyle/med/list-arrows2.png);}
+.component-content .rt-joomla-table tr.even td, .component-content .rt-joomla-table th {background: #fafafa;}
+.component-content .rt-joomla-table tr.odd td, .pollstableborder th {background: #eee;}
+p.dropcap2:first-letter {background: #777;color: #fff;}
+p.dropcap3:first-letter {background: #777;color: #fff;border: 1px solid #ccc;}
+
+/* Demo */
+.promo .feature {color: #333;}
+.promo p {color: #999;}

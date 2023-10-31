@@ -1,0 +1,114 @@
+/**
+ * @package   Modulus Template - RocketTheme
+ * @version   1.6.6 April 23, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+
+.rt-image {border: 1px solid;border-radius: 4px;}
+.typography-style-light .rt-image {border-color: #D7D7D7;}
+
+/* Menu Styles */
+.menu-preset {width: 64px;float: left;margin: 0 7px 10px;text-align: center;line-height: 20px;font-family: Helvetica,Arial,sans-serif;}
+.menu-preset span {box-shadow: 3px 3px 3px rgba(0,0,0,0.2);}
+.menutop li .menu-preset > a > span {display:block;width:64px;height:50px;background:url(../../../images/stories/demo/menu/modulus-presets.png);padding:0;margin:0;cursor:pointer;}
+.preset2 > a > span {background-position: -75px 0 !important;}
+.preset3 > a > span {background-position: -150px 0 !important;}
+.preset4 > a > span {background-position: -225px 0 !important;}
+.preset5 > a > span {background-position: 0 -50px !important;}
+.preset6 > a > span {background-position: -75px -50px !important;}
+.preset7 > a > span {background-position: -150px -50px !important;}
+.preset8 > a > span {background-position: -225px -50px !important;}
+.preset9 > a > span {background-position: 0px -100px !important;}
+.preset10 > a > span {background-position: -75px -100px !important;}
+.preset11 > a > span {background-position: -150px -100px !important;}
+.preset12 > a > span {background-position: -225px -100px !important;}
+ 
+/* New Stuff */
+.promo .feature {margin: 0 0 15px 0;font-size: 140%;font-weight: normal;}
+.promo p {font-size: 110%;margin: 0;}
+.promo .rt-img-link {position: absolute;right: 0;width: 90px;height: 121px;}
+.promo.icon1 .module-content, .promo.icon2 .module-content, .promo.icon3 .module-content, .promo.icon4 .module-content, .promo.icon5 .module-content, .promo.icon6 .module-content {margin: -15px;padding: 15px 100px 15px 15px;}
+.icon1 .module-content {background: url(../../../images/stories/demo/frontpage/promo1.png) 100% 15px no-repeat;}
+.icon2 .module-content {background: url(../../../images/stories/demo/frontpage/promo2.png) 100% 15px no-repeat;}
+.icon3 .module-content {background: url(../../../images/stories/demo/frontpage/promo3.png) 100% 15px no-repeat;}
+.icon4 .module-content {background: url(../../../images/stories/demo/frontpage/promo4.png) 100% 15px no-repeat;}
+.icon5 .module-content {background: url(../../../images/stories/demo/frontpage/promo5.png) 100% 15px no-repeat;}
+.icon6 .module-content {background: url(../../../images/stories/demo/frontpage/promo6.png) 100% 15px no-repeat;}
+.fp-facebook li {background: url(../../../images/stories/demo/frontpage/fp-facebook-icon.png) no-repeat;}
+.fp-vimeo li {background: url(../../../images/stories/demo/frontpage/fp-vimeo-icon.png) no-repeat;}
+.fp-flickr li {background: url(../../../images/stories/demo/frontpage/fp-flickr-icon.png) no-repeat;}
+.fp-twitter li {background: url(../../../images/stories/demo/frontpage/fp-twitter-icon.png) no-repeat;}
+.fp-contact {margin-right: 30px !important;}
+.jun11-home #roktwittie .tweets-wrapper {margin-bottom: 0;}
+.jun11-home .rt-demo-search {margin: 6px 0 24px 15px;}
+.jun11-home .roktabs .floatright {margin-left: 30px;}
+.fp-notice .rt-block {margin-top: 10px !important;}
+
+/* Custom Grid */
+.rt-demo-grid-2, .rt-demo-grid-3, .rt-demo-grid-4, .rt-demo-grid-5, .rt-demo-grid-6, .rt-demo-grid-7 {float: left;margin-left: 10px;margin-right: 10px;}
+.rt-grid-4 .rt-block .rt-demo-grid-2 {width: 120px;}
+.rt-grid-8 .rt-demo-grid-2 {width: 120px;}
+.rt-grid-9 .rt-demo-grid-2 {width: 140px;}
+.rt-grid-6 .rt-block .rt-demo-grid-3 {width: 200px;}
+.rt-grid-8 .rt-demo-grid-3 {width: 170px;}
+.rt-grid-9 .rt-demo-grid-3 {width: 200px;}
+.rt-grid-8 .rt-demo-grid-4 {width: 270px;}
+.rt-grid-9 .rt-demo-grid-4 {width: 310px;}
+.rt-demo-grid-alpha {margin-left: 0;}
+.rt-demo-grid-omega {margin-right: 0;margin-left: 0;}
+
+/* Tutorials */
+.mod-var-link {text-transform: uppercase;}
+.ext-list {line-height: 30px;margin-bottom: 5px;}
+
+/* Standard Inline Structural Adjustments */
+body .floatleft {float: left;margin-right: 15px;margin-left: 0;}
+body .floatright {float: right;margin-left: 15px;margin-right: 0;}
+body .normalfont, body .normalfont li {font-size: 100% !important;}
+body .nomarginbottom, body .nomarginbottom .rt-block, body ul.nomarginbottom {margin-bottom: 0;}
+body .nomargintop, body .nomargintop .rt-block, body ul.nomargintop {margin-top: 0;}
+body .nomarginbottom, body .nomarginbottom .rt-block, body ul.nomarginbottom {margin-bottom: 0;}
+body .nomarginleft, body .nomarginleft .rt-block, body ul.nomarginleft {margin-left: 0;}
+body .nomarginright, body .nomarginright .rt-block, body ul.nomarginright {margin-right: 0;}
+body .nopaddingleft {padding-left: 0 !important;}
+body .nopaddingright {padding-right: 0 !important;}
+body .nopaddingbottom {padding-bottom: 0 !important;}
+body .nopaddingtop {padding-top: 0 !important;}
+.floatnone {float: none !important;}
+.clearnone {clear: none !important;}
+.floatleftlast {float: left;margin-right: 0;}
+.floatrightlast {float: right;margin-left: 0;}
+.noimage {display: none;visibility: hidden;}
+body .smallmarginbottom {margin-bottom: 5px !important;}
+body .smallmargintop {margin-top: 5px !important;}
+body .medmarginbottom {margin-bottom: 10px !important;}
+body .medmargintop {margin-top: 10px !important;}
+body .largemarginbottom {margin-bottom: 15px !important;}
+body .largemargintop {margin-top: 15px !important;}
+body .smallmarginleft {margin-left: 5px !important;}
+body .smallmarginright {margin-right: 5px !important;}
+body .medmarginleft {margin-left: 10px !important;}
+body .medmarginright {margin-right: 10px !important;}
+body .largemarginleft {margin-left: 15px !important;}
+body .largemarginright {margin-right: 15px !important;}
+
+/* RTL Stuff */
+body.rtl .floatleft {float: right;margin-right: 0;margin-left: 15px;}
+body.rtl .floatright {float: left;margin-left: 0;margin-right: 15px;}
+body.rtl .nomarginleft, body.rtl .nomarginleft .rt-block, body.rtl ul.nomarginleft {margin-right: 0;}
+body.rtl .nomarginright, body.rtl .nomarginright .rt-block, body.rtl ul.nomarginright {margin-left: 0;}
+body.rtl .nopaddingleft {padding-right: 0 !important;}
+body.rtl .nopaddingright {padding-left: 0 !important;}
+body.rtl .floatleftlast {float: right;margin-left: 0;}
+body.rtl .floatrightlast {float: left;margin-right: 0;}
+body.rtl .smallmarginleft {margin-right: 5px;}
+body.rtl .smallmarginright {margin-left: 5px;}
+body.rtl .medmarginleft {margin-right: 10px;}
+body.rtl .medmarginright {margin-left: 10px;}
+body.rtl .largemarginleft {margin-right: 15px;}
+body.rtl .largemarginright {margin-left: 15px;}
+body.rtl .rt-demo-grid-2, body.rtl .rt-demo-grid-3, body.rtl .rt-demo-grid-4, body.rtl .rt-demo-grid-5, body.rtl .rt-demo-grid-6, body.rtl .rt-demo-grid-7 {float: right;}
+body.rtl .jun11-home .roktabs .floatright {margin-right: 30px;}
+body.rtl .promo .img-link {position: absolute;left: 0;right: inherit;}

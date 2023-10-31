@@ -1,0 +1,130 @@
+/**
+ * @package   Modulus Template - RocketTheme
+ * @version   1.6.6 April 23, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+ 
+/* Logo */
+.topblock-overlay-dark #rt-logo {background: url(../images/logo/dark/logo.png) 0 0 no-repeat;}
+.topblock-overlay-light #rt-logo {background: url(../images/logo/light/logo.png) 0 0 no-repeat;}
+
+/* Top Section - Dark */
+.topblock-overlay-dark #rt-top {background: url(../images/overlays/dark-10.png);}
+.topblock-overlay-dark #rt-top2, .topblock-overlay-dark #rt-header {background: url(../images/overlays/dark/overlay-top.png) 50% 0 repeat-x;}
+.topblock-overlay-dark #rt-top3, .topblock-overlay-dark #rt-header2 {background: url(../images/overlays/dark/overlay-top2.png) 50% 100% repeat-x;}
+.topblock-overlay-dark #top-shadow {background: url(../images/overlays/dark/top-shadow.png) 50% 0 repeat-x;}
+
+/* Top Section - Light */
+.topblock-overlay-light #rt-top {background: url(../images/overlays/light-10.png);}
+.topblock-overlay-light #rt-top2, .topblock-overlay-light #rt-header {background: url(../images/overlays/light/overlay-top.png) 50% 0 repeat-x;}
+.topblock-overlay-light #rt-top3, .topblock-overlay-light #rt-header2 {background: url(../images/overlays/light/overlay-top2.png) 50% 100% repeat-x;}
+.topblock-overlay-light #top-shadow {background: url(../images/overlays/light/top-shadow.png) 50% 0 repeat-x;}
+
+/* Top Menu  - Dark */
+.menutop .fusion-submenu-wrapper {box-shadow: 0 2px 3px rgba(0,0,0,0.2);}
+.topblock-overlay-dark .rt-menubar {background: url(../images/overlays/dark/top-div.png) 0 0 repeat-y;}
+.topblock-overlay-dark .menutop li.root, .topblock-overlay-dark .rt-splitmenu .menutop li {background: url(../images/overlays/dark/top-div.png) 100% 0 repeat-y;text-shadow: 1px 1px 0 rgba(0,0,0,0.3);}
+.topblock-overlay-dark .menutop li.active.root > .item, .topblock-overlay-dark .rt-splitmenu .menutop li.active > .item {background: url(../images/overlays/dark-20.png);text-shadow: -1px -1px 0 rgba(0,0,0,0.3);box-shadow: inset 0 0 4px rgba(0,0,0,0.3);}
+.topblock-overlay-dark .menutop li.parent.root .item span .daddyicon, .topblock-overlay-dark .menutop li.root .daddy.item .daddyicon, .topblock-overlay-dark .menutop ul li > .daddy span {background-image: url(../images/overlays/dark/topdaddy.png);}
+
+/* Top Menu  - Light */
+.topblock-overlay-light .rt-menubar {background: url(../images/overlays/light/top-div.png) 0 0 repeat-y;}
+.topblock-overlay-light .menutop li.root, .topblock-overlay-light .rt-splitmenu .menutop li {background: url(../images/overlays/light/top-div.png) 100% 0 repeat-y;text-shadow: -1px -1px 1px rgba(255,255,255,0.6);}
+.topblock-overlay-light .menutop li.active.root > .item, .topblock-overlay-light .rt-splitmenu .menutop li.active > .item {background: url(../images/overlays/dark-10.png);text-shadow: -1px -1px 1px rgba(255,255,255,0.5);box-shadow: inset 0 0 4px rgba(0,0,0,0.1);}
+.topblock-overlay-light .menutop li.parent.root .item span .daddyicon, .topblock-overlay-light .menutop li.root .daddy.item .daddyicon, .topblock-overlay-light .menutop ul li > .daddy span {background-image: url(../images/overlays/light/topdaddy.png);}
+
+/* Showcase - Dark  */
+.showcaseblock-overlay-dark #rt-showcase {box-shadow: inset 0 0 2px rgba(0,0,0,0.8);}
+.showcaseblock-overlay-dark #rt-showcase2 {background: url(../images/overlays/dark/showcase-overlay.png) 0 0 no-repeat;}
+.showcaseblock-overlay-dark #rt-showcase3 {background: url(../images/overlays/dark/showcase-overlay2.png) 100% 100% no-repeat;}
+.showcaseblock-overlay-dark #rt-showcase .title {text-shadow: 1px 1px 0 rgba(0,0,0,0.3);}
+
+/* Showcase - Light  */
+.showcaseblock-overlay-light #rt-showcase {box-shadow: inset 0 0 2px rgba(0,0,0,0.5);}
+.showcaseblock-overlay-light #rt-showcase2 {background: url(../images/overlays/light/showcase-overlay.png) 0 0 no-repeat;}
+.showcaseblock-overlay-light #rt-showcase3 {background: url(../images/overlays/light/showcase-overlay2.png) 100% 100% no-repeat;}
+.showcaseblock-overlay-light #rt-showcase .title {text-shadow: -1px -1px 1px rgba(255,255,255,0.6);}
+
+/* Module Variations */
+#rt-top-surround .box1 .rt-block, #rt-footer-surround .box1 .rt-block {background: url(../images/overlays/dark-10.png);}
+#rt-top-surround .box2 .rt-block, #rt-footer-surround .box2 .rt-block {background: url(../images/overlays/dark-15.png);}
+#rt-top-surround .box3 .rt-block, #rt-footer-surround .box3 .rt-block {background: url(../images/overlays/dark-20.png);}
+#rt-top-surround .box4 .rt-block, #rt-footer-surround .box4 .rt-block {background: url(../images/overlays/dark-25.png);}
+#rt-top-surround .box5 .rt-block, #rt-footer-surround .box5 .rt-block {background: url(../images/overlays/light-10.png);}
+#rt-top-surround .box6 .rt-block, #rt-footer-surround .box6 .rt-block {background: url(../images/overlays/light-15.png);}
+#rt-top-surround .box7 .rt-block, #rt-footer-surround .box7 .rt-block {background: url(../images/overlays/light-20.png);}
+#rt-top-surround .box8 .rt-block, #rt-footer-surround .box8 .rt-block {background: url(../images/overlays/light-25.png);}
+
+/* Module Varations - Dark */
+.topblock-overlay-dark .title1 .module-title2 {background: url(../images/overlays/dark/overlay-top.png) 50% 0 repeat-x;}
+.topblock-overlay-dark .title1 .module-title3 {background: url(../images/overlays/dark/overlay-top2.png) 50% 100% repeat-x;}
+.topblock-overlay-dark #rt-top-surround .title, .topblock-overlay-dark .title1 .title, .footerblock-overlay-dark #rt-footer-surround .title {text-shadow: 1px 1px 0 rgba(0,0,0,0.3);}
+.showcaseblock-overlay-dark .title2 .module-title2 {background: url(../images/overlays/dark/showcase-overlay2.png) 100% 100% no-repeat;}
+.showcaseblock-overlay-dark .title2 .module-title3 {background: none;}
+.showcaseblock-overlay-dark .title2 .title {text-shadow: 1px 1px 0 rgba(0,0,0,0.3);}
+
+/* Module Varations - Light */
+.topblock-overlay-light .title1 .module-title2 {background: url(../images/overlays/light/overlay-top.png) 50% 0 repeat-x;}
+.topblock-overlay-light .title1 .module-title3 {background: url(../images/overlays/light/overlay-top2.png) 50% 100% repeat-x;}
+.topblock-overlay-light #rt-top-surround .title, .topblock-overlay-light .title1 .title, .footerblock-overlay-light #rt-footer-surround .title {text-shadow: -1px -1px 1px rgba(255,255,255,0.5);}
+.showcaseblock-overlay-light .title2 .module-title2 {background: none;}
+.showcaseblock-overlay-light .title2 .module-title3 {background: none;}
+.showcaseblock-overlay-light .title2 .title {text-shadow: -1px -1px 1px rgba(255,255,255,0.5);}
+
+/* Side Menu - Dark */
+.topblock-overlay-dark #rt-top-surround .module-content ul.menu > li, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu > li, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu > li {background: url(../images/overlays/dark/horiz-div.png) 50% 100% repeat-x;}
+.topblock-overlay-dark #rt-top-surround .module-content ul.menu li:hover > a, .topblock-overlay-dark #rt-top-surround .module-content ul.menu li:hover > .separator, .topblock-overlay-dark #rt-top-surround .module-content ul.menu li:hover > .item, .topblock-overlay-dark #rt-top-surround .module-content ul.menu li.active > a, .topblock-overlay-dark #rt-top-surround .module-content ul.menu li.active > .separator, .topblock-overlay-dark #rt-top-surround .module-content ul.menu li.active > .item, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li:hover > a, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li:hover > .separator, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li:hover > .item, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li.active > a, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li.active > .separator, .showcaseblock-overlay-dark #rt-showcase .module-content ul.menu li.active > .item, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li:hover > a, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li:hover > .separator, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li:hover > .item, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li.active > a, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li.active > .separator, .footerblock-overlay-dark #rt-footer-surround .module-content ul.menu li.active > .item {background: url(../images/overlays/light-15.png);}
+
+/* Side Menu - Light */
+.topblock-overlay-light #rt-top-surround .module-content ul.menu > li, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu > li, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu > li {background: url(../images/overlays/light/horiz-div.png) 50% 100% repeat-x;}
+.topblock-overlay-light #rt-top-surround .module-content ul.menu li:hover > a, .topblock-overlay-light #rt-top-surround .module-content ul.menu li:hover > .separator, .topblock-overlay-light #rt-top-surround .module-content ul.menu li:hover > .item, .topblock-overlay-light #rt-top-surround .module-content ul.menu li.active > a, .topblock-overlay-light #rt-top-surround .module-content ul.menu li.active > .separator, .topblock-overlay-light #rt-top-surround .module-content ul.menu li.active > .item, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li:hover > a, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li:hover > .separator, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li:hover > .item, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li.active > a, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li.active > .separator, .showcaseblock-overlay-light #rt-showcase .module-content ul.menu li.active > .item, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li:hover > a, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li:hover > .separator, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li:hover > .item, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li.active > a, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li.active > .separator, .footerblock-overlay-light #rt-footer-surround .module-content ul.menu li.active > .item {background: url(../images/overlays/dark-10.png);}
+
+/* Buttons and Inputs - Dark */
+.showcaseblock-overlay-dark #rt-showcase .readon {background: url(../images/overlays/dark-25.png);border-bottom: 1px solid rgba(255,255,255,0.2);}
+.topblock-overlay-dark #rt-top-surround .readon {border: 1px solid rgba(0,0,0,0.2);box-shadow: 0 1px 0 rgba(255,255,255,0.2);}
+.showcaseblock-overlay-dark #rt-showcase .readon span, .showcaseblock-overlay-dark #rt-showcase .readon .button, .topblock-overlay-dark #rt-top-surround .readon span, .topblock-overlay-dark #rt-top-surround .readon .button, .footerblock-overlay-dark #rt-footer-surround .readon span, .footerblock-overlay-dark #rt-footer-surround .readon .button {background-image: url(../images/overlays/dark/showcase-readon.png);background-position: 50% 0;background-repeat: repeat-x;}
+.showcaseblock-overlay-dark #rt-showcase .rokradios, .showcaseblock-overlay-dark #rt-showcase .rokchecks, .showcaseblock-overlay-dark #rt-showcase .rokradios-active, .showcaseblock-overlay-dark #rt-showcase .rokchecks-active, .topblock-overlay-dark #rt-top-surround .rokradios, .topblock-overlay-dark #rt-top-surround .rokchecks, .topblock-overlay-dark #rt-top-surround .rokradios-active, .topblock-overlay-dark #rt-top-surround .rokchecks-active, .footerblock-overlay-dark #rt-footer-surround .rokradios, .footerblock-overlay-dark #rt-footer-surround .rokchecks, .footerblock-overlay-dark #rt-footer-surround .rokradios-active, .footerblock-overlay-dark #rt-footer-surround .rokchecks-active {background-image: url(../images/overlays/dark/overlay-inputs.png);}
+
+/* Buttons and Inputs - Light */
+.showcaseblock-overlay-light #rt-showcase .readon {background: url(../images/overlays/dark-15.png);}
+.topblock-overlay-light #rt-top-surround .readon {border: 1px solid rgba(0,0,0,0.2);box-shadow: 0 1px 0 rgba(255,255,255,0.5);}
+.showcaseblock-overlay-light #rt-showcase .readon span, .showcaseblock-overlay-light #rt-showcase .readon .button, .topblock-overlay-light #rt-top-surround .readon span, .topblock-overlay-light #rt-top-surround .readon .button, .footerblock-overlay-light #rt-footer-surround .readon span, .footerblock-overlay-light #rt-footer-surround .readon .button {background-image: url(../images/overlays/light/showcase-readon.png);background-position: 50% 100%;background-repeat: repeat-x;}
+.showcaseblock-overlay-light #rt-showcase .rokradios, .showcaseblock-overlay-light #rt-showcase .rokchecks, .showcaseblock-overlay-light #rt-showcase .rokradios-active, .showcaseblock-overlay-light #rt-showcase .rokchecks-active, .topblock-overlay-light #rt-top-surround .rokradios, .topblock-overlay-light #rt-top-surround .rokchecks, .topblock-overlay-light #rt-top-surround .rokradios-active, .topblock-overlay-light #rt-top-surround .rokchecks-active, .footerblock-overlay-light #rt-footer-surround .rokradios, .footerblock-overlay-light #rt-footer-surround .rokchecks, .footerblock-overlay-light #rt-footer-surround .rokradios-active, .footerblock-overlay-light #rt-footer-surround .rokchecks-active {background-image: url(../images/overlays/light/overlay-inputs.png);}
+
+/* Typography - Dark */
+.topblock-overlay-dark #rt-top-surround #form-login ul li a, .topblock-overlay-dark #rt-top-surround ul.mostread li a, .topblock-overlay-dark #rt-top-surround ul.latestnews li a, .topblock-overlay-dark #rt-top-surround .weblinks ul li a, .showcaseblock-overlay-dark #rt-showcase #form-login ul li a, .showcaseblock-overlay-dark #rt-showcase ul.mostread li a, .showcaseblock-overlay-dark #rt-showcase ul.latestnews li a, .showcaseblock-overlay-dark #rt-showcase .weblinks ul li a, .footerblock-overlay-dark #rt-footer-surround #form-login ul li a, .footerblock-overlay-dark #rt-footer-surround ul.mostread li a, .footerblock-overlay-dark #rt-footer-surround ul.latestnews li a, .footerblock-overlay-dark #rt-footer-surround .weblinks ul li a {background-image: url(../images/overlays/dark/topdaddy.png);}
+.topblock-overlay-dark #rt-top-surround .inputbox, .showcaseblock-overlay-dark #rt-showcase .inputbox, .footerblock-overlay-dark #rt-footer-surround .inputbox {background: url(../images/overlays/dark-55.png);box-shadow: 0 1px 0 rgba(255,255,255,0.3);}
+
+/* Typography - Light */
+.topblock-overlay-light #rt-top-surround #form-login ul li a, .topblock-overlay-light #rt-top-surround ul.mostread li a, .topblock-overlay-light #rt-top-surround ul.latestnews li a, .topblock-overlay-light #rt-top-surround .weblinks ul li a, .showcaseblock-overlay-light #rt-showcase #form-login ul li a, .showcaseblock-overlay-light #rt-showcase ul.mostread li a, .showcaseblock-overlay-light #rt-showcase ul.latestnews li a, .showcaseblock-overlay-light #rt-showcase .weblinks ul li a, .footerblock-overlay-light #rt-footer-surround #form-login ul li a, .footerblock-overlay-light #rt-footer-surround ul.mostread li a, .footerblock-overlay-light #rt-footer-surround ul.latestnews li a, .footerblock-overlay-light #rt-footer-surround .weblinks ul li a {background-image: url(../images/overlays/light/topdaddy.png);}
+.topblock-overlay-light #rt-top-surround .inputbox, .showcaseblock-overlay-light #rt-showcase .inputbox, .footerblock-overlay-light #rt-footer-surround .inputbox {background: url(../images/overlays/dark-10.png);border: 1px solid rgba(0,0,0,0.1);box-shadow: 0 1px 0 rgba(255,255,255,0.8);}
+
+/* Branding */
+.footerblock-overlay-dark #rocket {background: url(../images/overlays/dark/branding.png);}
+.footerblock-overlay-light #rocket {background: url(../images/overlays/light/branding.png);}
+
+/* RokStories Showcase - Dark */
+.showcaseblock-overlay-dark #rt-showcase .image-small {background: url(../images/overlays/dark/showcase-tab-bg.png) 50% 0 repeat-x;}
+.showcaseblock-overlay-dark #rt-showcase .image-small .wrapper-padding {background: url(../images/overlays/dark/top-div.png) 0 0 repeat-y;}
+
+/* RokStories Showcase - Light */
+.showcaseblock-overlay-light #rt-showcase .image-small {background: url(../images/overlays/light/showcase-tab-bg.png) 50% 0 repeat-x;}
+.showcaseblock-overlay-light #rt-showcase .image-small .wrapper-padding {background: url(../images/overlays/light/top-div.png) 0 0 repeat-y;}
+
+/* RokTabs Showcase - Dark */
+.showcaseblock-overlay-dark #rt-showcase .roktabs-links, .showcaseblock-overlay-dark #rt-showcase .active-arrows {background: url(../images/overlays/dark/showcase-tab-bg.png) 50% 0 repeat-x;}
+.showcaseblock-overlay-dark #rt-showcase .roktabs-links ul li {background: url(../images/overlays/dark/top-div.png) 100% 0 repeat-y;}
+.showcaseblock-overlay-dark #rt-showcase .roktabs-links ul li.active span {background: url(../images/overlays/dark/showcase-readon.png) 50% -1px repeat-x;}
+.showcaseblock-overlay-dark #rt-showcase .roktabs-links ul li span, .showcaseblock-overlay-dark #rt-showcase .roktabs-container-inner h3 {text-shadow: 1px 1px 1px rgba(0,0,0,0.6);}
+.showcaseblock-overlay-dark #rt-showcase .roktabs-wrapper .arrow-next, .showcaseblock-overlay-dark #rt-showcase .roktabs-wrapper .arrow-prev {background-image: url(../images/overlays/dark/show-arrows.png);}
+.showcaseblock-overlay-dark .roktabs-links li img[src $="blank1.png"], .showcaseblock-overlay-dark .roktabs-links li img[src $="blank2.png"], .showcaseblock-overlay-dark .roktabs-links li img[src $="blank3.png"], .showcaseblock-overlay-dark .roktabs-links li img[src $="blank4.png"] {background-image: url(../images/overlays/dark/roktabs-icons.png);}
+
+/* RokTabs Showcase - Light */
+.showcaseblock-overlay-light #rt-showcase .roktabs-links, .showcaseblock-overlay-light #rt-showcase .active-arrows {background: url(../images/overlays/light/showcase-tab-bg.png) 50% 0 repeat-x;}
+.showcaseblock-overlay-light #rt-showcase .roktabs-links ul li {background: url(../images/overlays/light/top-div.png) 100% 0 repeat-y;}
+.showcaseblock-overlay-light #rt-showcase .roktabs-links ul li.active span {background: url(../images/overlays/light/showcase-readon.png) 50% 100% repeat-x;}
+.showcaseblock-overlay-light #rt-showcase .roktabs-links ul li span, .showcaseblock-overlay-light #rt-showcase .roktabs-container-inner h3 {text-shadow: -1px -1px 1px rgba(255,255,255,0.5);}
+.showcaseblock-overlay-light #rt-showcase .roktabs-wrapper .arrow-next, .showcaseblock-overlay-light #rt-showcase .roktabs-wrapper .arrow-prev {background-image: url(../images/overlays/light/show-arrows.png);}
+.showcaseblock-overlay-light .roktabs-links li img[src $="blank1.png"], .showcaseblock-overlay-light .roktabs-links li img[src $="blank2.png"], .showcaseblock-overlay-light .roktabs-links li img[src $="blank3.png"], .showcaseblock-overlay-light .roktabs-links li img[src $="blank4.png"] {background-image: url(../images/overlays/light/roktabs-icons.png);}

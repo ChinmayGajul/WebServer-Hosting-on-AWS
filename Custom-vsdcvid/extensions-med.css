@@ -1,0 +1,115 @@
+/**
+ * @package   Modulus Template - RocketTheme
+ * @version   1.6.6 April 23, 2012
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+ * @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+ */
+
+/* RokAjaxSearch */
+#rt-page-surround .inputbox,#rt-popuplogin .inputbox {border: 1px solid silver;color: #999;}
+#roksearch_search_str {background: #fff url(../images/bodystyle/med/search-icon.png) no-repeat 98% 50%;}
+.roksearch_wrapper1 {background: whiteSmoke;}
+.roksearch_wrapper2 {background: whiteSmoke;border-color: #D7D7D7;}
+.roksearch_wrapper3 {background: url(../images/bodystyle/med/title-overlay-top.png) 100% 0 repeat-x;}
+.roksearch_wrapper4 {background: url(../images/bodystyle/med/title-overlay-bottom.png) 50% 100% repeat-x;}
+body #roksearch_results .roksearch_header, body #roksearch_results .roksearch_row_btm {color: #555;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.roksearch_results a#roksearch_link {background: url(../images/bodystyle/med/search-controls.png) 0 -50px no-repeat;}
+#roksearch_results .arrow-left {background: url(../images/bodystyle/med/search-controls.png) 0 2px no-repeat;}
+#roksearch_results .arrow-left-disabled, #roksearch_results .arrow-right-disabled {background: url(../images/bodystyle/med/search-controls.png) 0 -33px no-repeat;}
+#roksearch_results .arrow-right {background: url(../images/bodystyle/med/search-controls.png) 0 -15px no-repeat;}
+.roksearch_result_wrapper1 {background: whiteSmoke;border-bottom: 1px solid #D7D7D7;}
+.roksearch_result_wrapper1:hover {background: #fff;border-bottom: 1px solid #D7D7D7;}
+
+/* RokComments */
+#idc-container .idc-comments .idc-c .idc-c-h-inner {background: whiteSmoke url(../images/bodystyle/med/title-overlay-top.png) 50% 0% repeat-x;border: 1px solid #D7D7D7;}
+#idc-container .idc-user .idc-head_action.idc-user {background: #E9E9E9 url(../images/bodystyle/med/title-overlay-top.png) 50% 0% repeat-x;border: 1px solid #D7D7D7;}
+#idc-container .idc-comments .idc-c-t-inner  {background: whiteSmoke url(../images/bodystyle/med/title-overlay-top.png) 50% 0% repeat-x;border: 1px solid #D7D7D7;}
+#idc-container .idc-btn_l .idc-r, #idc-container .idc-btn_s .idc-r {color: #999 !important;}
+#rt-body-surround .rk-commentcount a {color: #666;}
+#rt-body-surround .rk-commentcount {background: #e9e9e9;border: 1px solid silver;}
+#rt-body-surround .rk-commentcount:hover {background: #d7d7d7;border: 1px solid #ccc;}
+#rt-body-surround .rk-commentcount a {background: url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);border-top: 1px solid #fff;}
+#idc-container .idc-btn_l span, #idc-container .idc-btn_s span {border-color: silver !important;border-radius: 12px 0px 0px 12px;background: #E9E9E9 url(../images/bodystyle/med/readon-bg.png) 50% 34% repeat-x !important;}
+#idc-container .idc-btn_s .idc-r {border-radius: 0px 12px 12px 0px;}
+
+/* RokFeatureTable */
+.featuretable-cell.ft-row-top,.featuretable-cell.ft-row-bottom {background-color: #fff;}
+.featuretable-cell {border-top: 1px solid #D7D7D7;border-right: 1px solid #D7D7D7;background:#f9f9f9;text-shadow: 0 1px 0 #fff;}
+.ft-row-odd, .ft-row-even {background: whiteSmoke url(../images/bodystyle/med/title-overlay-top.png) 100% 0 repeat-x;}
+.ft-row-bottom {border-bottom: 1px solid #D7D7D7;}
+.ft-highmed .featuretable-cell.ft-row-top {background: url(../images/overlays/dark/showcase-readon.png) 100% 0 repeat-x;text-shadow: 0 1px 0 #333;}
+.ft-highmed .ft-row-odd,.ft-highmed .ft-row-even {background: whiteSmoke url(../images/bodystyle/med/title-overlay-top.png) 100% 0 repeat-x;}
+
+/* RokMiniEvents */
+.timeline .progress-wrapper, .rokminievents-badge {background: #E9E9E9 url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;border: 1px solid #D7D7D7;}
+.rokminievents-wrapper .rokminievent-page {background: #E9E9E9 url(../images/bodystyle/med/readon-bg.png) 50% 30% repeat-x;border: 1px solid #D7D7D7;}
+.rokminievents-wrapper .timeline .progress .knob {background: url(../images/dark/overlay-top2.png) 50% 100% repeat-x;}
+.rokminievents-badge .day, .timeline-dates.date-inline .active {background: url(../images/overlays/dark/showcase-readon.png) 100% 0% repeat-x;text-shadow: 0px 0px 4px rgba(0,0,0,0.3);}
+.rokminievents-badge .month, .rokminievents-badge .year {color: #999999;}
+.rokminievents-wrapper .right-arrow, .rokminievents-wrapper .left-arrow {background-image: url(../images/bodystyle/med/roktabs-arrows.png);background-color: #E9E9E9;border: 1px solid #CCC;}
+
+/* RokNewsFlash */
+#rt-page-surround .roknewsflash .controls .control-next, #rt-page-surround .roknewsflash .controls .control-prev {background-image: url(../images/bodystyle/med/roktabs-arrows.png);background-color: #ddd;border: 1px solid #CCC;}
+
+/* RokNewsPager */
+.roknewspager-toggle {background: transparent url(../images/bodystyle/med/roknewspager_toggle.png) 100% 100% no-repeat;}
+.roknewspager .roknewspager-title {text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.roknewspager-prev, .roknewspager-next, .roknewspager-prev-disabled, .roknewspager-next-disabled {background-image: url(../images/bodystyle/med/list-arrows.png);}
+.roknewspager-numbers li {background: #E9E9E9 url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;border: 1px solid #D7D7D7;}
+.roknewspager-numbers li.active {background: #F5F5F5 url(../images/overlays/dark/showcase-readon.png) 100% 0% repeat-x;text-shadow: 0 0 4px rgba(0,0,0,0.3);}
+
+/* RokStock */
+#rt-page-surround #rokstock .rokstock-add, #rt-page-surround #rokstock .rokstock-list .row {background: #E9E9E9 url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;border: 1px solid #D7D7D7;color: #666666;} 
+#rt-page-surround #rokstock .legend {background-image: url(../images/bodystyle/med/rokstock_circles.png);}
+#rt-page-surround #rokstock .row .delete, #rt-page-surround #rokstock .rokstock-reload {background-color: transparent;}
+.rokstock-tooltip {box-shadow: 0 0 5px rgba(0,0,0,0.2);}
+#rt-page-surround #rokstock {background: none;}
+
+/* RokTabs General */
+.roktabs-wrapper .arrow-next, .roktabs-wrapper .arrow-prev {background-image: url(../images/bodystyle/med/roktabs-arrows.png);}
+
+/* RokTabs Style 1 */
+.roktabs1 .roktabs-wrapper {background: #eaeaea;border: 1px solid #c0c0c0;box-shadow: 0 0 5px rgba(51,51,51,0.1);}
+.roktabs1 .roktabs-links ul li {background: #e9e9e9;border: 1px solid #ccc;}
+.roktabs1 .roktabs-links ul li span {background: url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.roktabs1 .roktabs-links ul li:hover {background: #dadada;}
+.roktabs1 .roktabs-links ul li.active {background: #d7d7d7;box-shadow: inset 0 2px 2px rgba(0,0,0,0.1);border: 1px solid #b0b0b0;}
+.roktabs1 .arrow-next, .roktabs1 .arrow-prev {background-color: #e9e9e9;border: 1px solid #ccc;}
+.roktabs1 .arrow-next:hover, .roktabs1 .arrow-prev:hover {background-color: #d7d7d7;box-shadow: inset 0 2px 2px rgba(0,0,0,0.1);border: 1px solid #b0b0b0;}
+
+/* RokTabs Style 2 */
+.roktabs2 .roktabs-container-inner {background: #eaeaea;border: 1px solid #c0c0c0;box-shadow: 0 0 5px rgba(51,51,51,0.1);}
+.roktabs2 .roktabs-links ul li {background: #ddd;border: 1px solid #bbb;}
+.roktabs2 .roktabs-links ul li:hover {background: #d0d0d0;}
+.roktabs2 .roktabs-links ul li span {background: url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.roktabs2 .roktabs-links ul li.active {background: #eee;}
+.roktabs2 .arrow-next, .roktabs2 .arrow-prev {background-color: #ddd;border: 1px solid #bbb;}
+.roktabs2 .arrow-next:hover, .roktabs2 .arrow-prev:hover {background-color: #eee;}
+
+/* RokTabs Style 3 */
+.roktabs3 .roktabs-wrapper .module-title {background: #e0e0e0;border: 1px solid #c0c0c0;box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);}
+.roktabs3 .roktabs-container-inner {background: #e0e0e0;border: 1px solid #c0c0c0;box-shadow: inset 0 1px 2px rgba(0,0,0,0.2);}
+.roktabs3 .roktabs-links ul li.active {background: #fafafa;border: 1px solid #c0c0c0;}
+.roktabs3 .arrow-next, .roktabs3 .arrow-prev {background-color: #e9e9e9;border: 1px solid #c0c0c0;}
+.roktabs3 .arrow-next:hover, .roktabs3 .arrow-prev:hover {background-color: #fafafa;}
+
+/* RokTabs Style 4 */
+.roktabs4 .roktabs-container-inner {background: #eaeaea;border: 1px solid #c0c0c0;box-shadow: 0 0 5px rgba(51,51,51,0.1);}
+.roktabs4 .roktabs-links ul li {background-color: #ddd;border: 1px solid #c0c0c0;}
+.roktabs4 .roktabs-links ul li:hover {background: #d0d0d0;}
+.roktabs4 .roktabs-links ul li span {background: url(../images/bodystyle/med/readon-bg.png) 50% 50% repeat-x;text-shadow: 1px 1px 0 rgba(255,255,255,0.9);}
+.roktabs4 .roktabs-links ul li.active {background-color: #f0f0f0;}
+
+/* RokTwittie */
+#roktwittie .header {text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.9);}
+.dual-bg, #roktwittie .roktwittie-m1 {background: whiteSmoke;}
+.dual-bg1, #roktwittie .roktwittie-m2 {background: whiteSmoke;border-color: #D7D7D7;}
+#roktwittie .roktwittie-m2 {transition: background 0.2s ease-out;}
+#roktwittie .roktwittie-m2:hover {background: #FFFFFF;}
+.dual-bg2, #roktwittie .roktwittie-m3 {background: url(../images/bodystyle/med/title-overlay-top.png) 100% 0 repeat-x;}
+.dual-bg3, #roktwittie div.roktwittie-text {background: url(../images/bodystyle/med/title-overlay-bottom.png) 50% 100% repeat-x;}
+#roktwittie .roktwittie-avatar img {background-color: whiteSmoke;border-color:#D7D7D7;}
+
+/* RokWeather */
+#rt-page-surround  #rokweather .icon div {color: #666;}
