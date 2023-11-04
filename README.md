@@ -85,7 +85,7 @@ Happy hosting!
 
 ![Custom-vsdcvid](vsdc.png)
 
-Description of Website 1 :-
+**Description of Website 1 :-**
 
 This project is a custom website designed with inspiration from the VSDC Free Video Editor.
 
@@ -93,9 +93,11 @@ This project is a custom website designed with inspiration from the VSDC Free Vi
 
 ![Custom-oneplus](oneplus.png)
 
-Description of Website 2 :-
+**Description of Website 2 :-**
 
 This project is a custom website designed with inspiration from the OnePlus.
+
+
 
 
 
