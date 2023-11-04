@@ -77,6 +77,27 @@ That's it! You have successfully set up two websites on two different AWS EC2 in
 
 Happy hosting!
 
+# Showcasing My Work Based on the Guide
+
+## Website Showcase
+
+### Website 1: [Custom-vsdcvid](http://3.128.118.224/)
+
+![custom-vsdcvid]()
+
+Description of Website 1 :-
+
+This project is a custom website designed with inspiration from the VSDC Free Video Editor.
+
+### Website 2: [Custom-oneplus](http://3.128.177.200/)
+
+![Website 2](website2-screenshot.png)
+
+Description of Website 2 :-
+
+This project is a custom website designed with inspiration from the OnePlus.
+
+
 
 This README provides an overview of the process for hosting two websites on separate AWS EC2 instances. Be sure to replace placeholders like `<your-key.pem>`, `<instance1-ip>`, and any other placeholders with your actual values. You can include additional details and information specific to your project as needed.
 
