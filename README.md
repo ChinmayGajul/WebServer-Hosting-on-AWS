@@ -83,7 +83,7 @@ Happy hosting!
 
 ### Website 1: [Custom-vsdcvid](http://3.128.118.224/)
 
-![custom-vsdcvid](images-used-in-readme.md/Screenshot from 2023-11-04 13-56-45.png)
+![Custom-vsdcvid](vsdc.png)
 
 Description of Website 1 :-
 
@@ -91,7 +91,7 @@ This project is a custom website designed with inspiration from the VSDC Free Vi
 
 ### Website 2: [Custom-oneplus](http://3.128.177.200/)
 
-![Website 2](website2-screenshot.png)
+![Custom-oneplus](oneplus.png)
 
 Description of Website 2 :-
 
