@@ -12,7 +12,7 @@ Before you begin, make sure you have the following:
 
 ## Website 1 Setup
 
-Step 1: Launch the First EC2 Instance
+**Step 1: Launch the First EC2 Instance**
 
 Follow these steps to create and configure the first EC2 instance for Website 1:
 
@@ -32,25 +32,29 @@ Follow these steps to create and configure the first EC2 instance for Website 1:
 
 8. Make note of the instance's public IP address for Website 1.
 
-Step 2: Connect to the First EC2 Instance
+**Step 2: Connect to the First EC2 Instance**
 
 Connect to the first EC2 instance using SSH and your private key:
 
 ssh -i <your-key.pem> ubuntu@<instance1-ip>
 
-Step 3: Install and Configure Apache for Website 1
+**Step 3: Install and Configure Apache for Website 1**
 
     1. Update the package list and upgrade the installed packages:
+ 
     • sudo apt update
     • sudo apt upgrade
     
     2. Install Apache2:
+  
     • sudo apt install apache2
     
     3. Start the Apache2 service:
+   
     • sudo service apache2 start
     
     4. Check Status of the  Apache2 server:
+  
     • sudo service apache2 status
     
     5. Upload the files for Website 1 to the /var/www/html directory.
@@ -58,6 +62,7 @@ Step 3: Install and Configure Apache for Website 1
     6. Configure Apache to serve Website 1.
     
     7. Restart Apache to apply the changes:
+ 
     • sudoservice  apache2  restart
 
 ## Website 2 Setup
