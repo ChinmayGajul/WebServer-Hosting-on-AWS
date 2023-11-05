@@ -81,15 +81,11 @@ Happy hosting!
 
 ## Website Showcase
 
-### Website 1: [Custom-vsdcvid](http://3.128.118.224/)
-
 ![Custom-vsdcvid](vsdc.png)
 
 **Description of Website 1 :-**
 
 This project is a custom website designed with inspiration from the VSDC Free Video Editor.
-
-### Website 2: [Custom-oneplus](http://3.128.177.200/)
 
 ![Custom-oneplus](oneplus.png)
 
