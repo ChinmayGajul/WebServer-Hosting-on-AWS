@@ -1,4 +1,5 @@
-# Multi-Server Web Hosting on AWS EC2
+# WebServer-Hosting-on-AWS
+
 
 This repository contains instructions and configurations for hosting two different websites on separate AWS EC2 instances, each with its own Apache web server and Elastic IP address.
 
