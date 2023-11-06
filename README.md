@@ -78,7 +78,7 @@ That's it! You have successfully set up two websites on two different AWS EC2 in
 
 Happy hosting!
 
-# Showcasing My Work Based on the Guide
+# Showcasing My Work
 
 ## Website Showcase
 
