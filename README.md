@@ -64,7 +64,7 @@ ssh -i <your-key.pem> ubuntu@<instance1-ip>
     
     7. Restart Apache to apply the changes:
  
-    • sudoservice  apache2  restart
+    • sudo service  apache2  restart
 
 ## Website 2 Setup
 
